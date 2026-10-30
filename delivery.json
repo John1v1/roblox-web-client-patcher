@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "bundle_name": "webclient-rescue-payload.zip",
+  "bundle_size": 18688036,
+  "bundle_sha256": "a495e985e35813f4c7480558a9f5ead0685dedba3765c026ec464772ccb2e962",
+  "parts": [
+    {
+      "name": "payload.part1",
+      "size": 6500000,
+      "sha256": "aa69a08b02d854632775c661314bf0c09e507e4baf4b5bc46bbe9a60b2d8ea9c"
+    },
+    {
+      "name": "payload.part2",
+      "size": 6500000,
+      "sha256": "6063d72b6a0f166b27a0880dc4f68a93a5ceb34a03c9082eac7155565d4a9a61"
+    },
+    {
+      "name": "payload.part3",
+      "size": 5688036,
+      "sha256": "f48af9da3f8418fff92b2c472617d38646e5f4f261ba68f40cb97aaec9562fdd"
+    }
+  ]
+}
