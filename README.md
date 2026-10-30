@@ -1,4 +1,4 @@
-# WebClient Rescue — private Websim setup
+# WebClient Rescue By Trey — private Websim setup
 
 A **dark, five-step guided wizard** for one recovered Roblox WebClient build, plus a zero-flag Python installer. The site has an in-page Python install tutorial and a shorter developer fast path. It does not ask for a Roblox login or password.
 
